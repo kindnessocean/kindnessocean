@@ -1,0 +1,2 @@
+docker-compose exec kindness_ocean_kafka kafka-topics --create --bootstrap-server kindness_ocean_kafka:9092 --replication-factor 1 --partitions 1 --topic emailRequestResult
+docker-compose exec kindness_ocean_kafka kafka-topics --create --bootstrap-server kindness_ocean_kafka:9092 --replication-factor 1 --partitions 1 --topic emailRequest

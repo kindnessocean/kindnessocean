@@ -1,0 +1,9 @@
+/.idea/
+
+*.iml
+/backend/api/target/
+/backend/email/target/
+/backend/shared/target/
+/backend/shared/model/target/
+/backend/shared/mq/target/
+/backend/shared/sql/target/
