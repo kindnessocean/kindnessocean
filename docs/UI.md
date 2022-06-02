@@ -1,5 +1,8 @@
 # MVP UI prototype
 
+## UI Prototype
+Prototype designed in [Figma](https://www.figma.com/file/7rntabNFZAgQJHJ3Yn5FKa/KidnessOcean?node-id=0%3A1)
+
 ## Color scheme
 Color scheme used from [coolors.co](https://coolors.co/palette/e3f2fd-bbdefb-90caf9-64b5f6-42a5f5-2196f3-1e88e5-1976d2-1565c0-0d47a1)
 
