@@ -20,3 +20,7 @@ Color scheme used from [coolors.co](https://coolors.co/palette/e3f2fd-bbdefb-90c
 | 10  | <p style="background-color:#E3F2FD;">`#E3F2FD`</p> |              | .color-10 |
 | BG  | <p style="background-color:#FFFFFF;">`#FFFFFF`</p> | Color for BG | .color-bg |
 
+## Logo
+<img src="../public/logo.png"
+alt="KindnessOcean logo"
+style="float: left; margin-right: 10px;" />
